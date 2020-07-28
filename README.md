@@ -15,6 +15,13 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
+## :hammer: Tecnologias
+
+ - [NodeJS](https://nodejs.org/)
+ - [TypeScript](https://www.typescriptlang.org/)
+ - [Express](https://expressjs.com/)
+ - [TypeORM](https://typeorm.io/)
+ - [uuidv4](https://www.npmjs.com/package/uuidv4)
 ## :rocket: Sobre o desafio
 
 Nesse desafio, você deve continuar desenvolvendo a aplicação de gestão de transações, treinando o que você aprendeu até agora no Node.js junto ao TypeScript, mas dessa vez incluindo o uso de banco de dados com o TypeORM e envio de arquivos com o Multer!
